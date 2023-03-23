@@ -16,6 +16,7 @@ int main(){
      cout<<typeid(Bptr).name()<<endl;     //    P1B
      cout<<typeid(ptr1).name()<<endl;    //     P1A
      cout<<typeid(ptr2).name()<<endl;   //      P1A
-    
+
+// typeid(object).name()=====> It return name of the class along with the length of the class as well it specify the pointer instances also    
     return 0;
 }
