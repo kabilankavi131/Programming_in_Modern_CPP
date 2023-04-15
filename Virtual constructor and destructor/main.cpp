@@ -14,13 +14,13 @@ class Derived:public Base{
     Derived(){
         cout<<"Derived Constructor "<<endl;
     }
-  virtual  ~Derived(){
+    ~Derived(){
         cout<<"Derived Destructor"<<endl;
     }
 };
 int main(){
     Base b;
     Derived d;
-    b.Base();
+    Derived::Base();
     return 0;
 }

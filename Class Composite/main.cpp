@@ -22,7 +22,7 @@ class Person
     Birthday birthday;
 
 public:
-    Person(Birthday bday, string nm) : birthday{bday}//  This is classs composition
+    Person(Birthday bday, string nm) : birthday{bday}    //  This is classs composition
     {
         name=nm;
     }

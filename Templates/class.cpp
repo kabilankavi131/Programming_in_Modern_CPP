@@ -15,10 +15,9 @@ template<>
 class Player<int>{
    public:
    Player(int a){
-    cout<<"Sorry kindly enter your name instead of number "<<endl;
+    cout<<"Sorry kindly enter your name, instead of number "<<endl;
    }
    ~Player(){
-
     cout<<"Thank you"<<endl;
    }
 };
