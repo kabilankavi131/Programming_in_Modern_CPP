@@ -14,9 +14,9 @@ class Derived:public Base{
     }
 };
 int main(){
-    Base *b;
-    Derived *d;
-    b->hi();
-    d->hi();
+    Base b;
+    Derived d;
+    b.hi();
+    d.hi();
     return 0;
 }
