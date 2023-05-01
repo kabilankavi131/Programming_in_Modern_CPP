@@ -24,7 +24,7 @@ int main()
     x.pop_back();
     cout << "Current last value : " << x.back() << endl;
     x.clear();
-    cout<<"All list values are deleted !!"<<endl;
-    cout<<"To check list values are empty or not : "<<x.empty()<<endl;
+    cout << "All list values are deleted !!" << endl;
+    cout << "To check list values are empty or not : " << x.empty() << endl;
     return 0;
 }

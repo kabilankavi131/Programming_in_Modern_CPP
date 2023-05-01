@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "exception": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "memory_resource": "cpp",
+        "string": "cpp",
+        "functional": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp"
+    }
+}
