@@ -50,6 +50,6 @@ public:
 };
 int main()
 {
-    D x; // Here you can see two class A in that one is duplicate class 
+    D x; // Here you can see two A classes in that one is duplicate class 
     return 0;
 }
