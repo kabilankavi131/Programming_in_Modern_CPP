@@ -6,7 +6,7 @@ auto Updatenum=[&num](int a){
     num=num+a;
 };
 cout<<"Current Value of num : "<<num<<endl;
-Updatenum(num); 
+Updatenum(num);
 cout<<"num value after updation : "<<num<<endl;
     return 0;
 }

@@ -7,7 +7,7 @@ class A{
         cout<<"Constructor A"<<endl;
     }
     ~A(){
-        cout<<"Destructor B"<<endl;
+        cout<<"Destructor A"<<endl;
     }
 };
 
@@ -23,6 +23,6 @@ class B{
 };
 A B::a;
 int main(){
-    B a;
+    // B a;
     return 0;
 }

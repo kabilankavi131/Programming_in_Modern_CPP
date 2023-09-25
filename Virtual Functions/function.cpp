@@ -26,15 +26,16 @@ class B:public A{
   }
 };
 
-void func(B  &a){ 
+void func(B a){ 
+  
     a.func();   
 }    
 
 /*
-In Function Parameter ,
-For func(A a)==> It call class A's function as well as it call one extra Destructor of A.  output : A B A Function ~A ~B ~A
+In Function Parameters ,
+For func(A a)==> It call class A's function as well as it call  extra Destructor of class A.  output : A B A Function ~A ~B ~A
 For func(A &a)==> It call class B's function , it won't call extra destructor.  output : A B B Function ~B ~A
-For func(B a)==> It call class B's function , as well as it call one extra Destructor of B. output : A B B Function ~B ~A ~B ~A
+For func(B a)==> It call class B's function , as well as it call  extra Destructor of class B and class A. output : A B B Function ~B ~A ~B ~A
 For func(B &a)==>It call class B's function, it won't call any extra destructor. output : A B B Function ~B ~A
  */
 

@@ -19,8 +19,9 @@ class Derived:public Base{
     }
 };
 int main(){
-    Base b;
+    // Base b;
+    // Derived d;
+    // Derived::Base();
     Derived d;
-    Derived::Base();
     return 0;
 }
