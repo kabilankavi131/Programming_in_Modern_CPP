@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains my solutions and notes for the NPTEL Java Programming course. The course covers fundamental Java concepts and aspects of Object-Oriented Programming.
+This repository contains my solutions and notes for the NPTEL Programming in Modern C++ course. The course covers fundamental and intermediate C++ concepts and aspects of Object-Oriented Programming.
 
 ### Course Details
 
@@ -15,18 +15,18 @@ This repository contains my solutions and notes for the NPTEL Java Programming c
 
 ## Topics Covered
 
-Week 1: Programming in C++ is Fun.
-Week 2: C++ as Better C.
-Week 3: OOP in C++.
-Week 4: OOP in C++.
-Week 5: Inheritance.
-Week 6: Polymorphism.
-Week 7: Type Casting.
-Week 8: Exceptions and Templates.
-Week 9: Streams and STL.
-Week 10: Modern C++.
-Week 11: Lambda and Concurrency.
-Week 12: Move, Rvalue and STL Containers.
+- Week 1: Programming in C++ is Fun.
+- Week 2: C++ as Better C.
+- Week 3: OOP in C++.
+- Week 4: OOP in C++.
+- Week 5: Inheritance.
+- Week 6: Polymorphism.
+- Week 7: Type Casting.
+- Week 8: Exceptions and Templates.
+- Week 9: Streams and STL.
+- Week 10: Modern C++.
+- Week 11: Lambda and Concurrency.
+- Week 12: Move, Rvalue and STL Containers.
 
 ## Certification
 
