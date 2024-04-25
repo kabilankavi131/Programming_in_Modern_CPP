@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains my solutions and notes for the NPTEL Java Programming course. The course covers fundamental Java concepts and aspects of Object-Oriented Programming.
+This repository contains my solutions and notes for the NPTEL Programming in Modern C++ course. The course covers fundamental and intermediate C++ concepts and aspects of Object-Oriented Programming.
 
 ### Course Details
 
